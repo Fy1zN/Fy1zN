@@ -1,35 +1,58 @@
-<div align="center">
-
-# Hi 👋, I'm Krish Malhotra
-
-### AI Engineer • Machine Learning Engineer • Full Stack Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=00D9FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;Full+Stack+Developer;Computer+Vision+%7C+LLMs+%7C+RAG;Building+Scalable+AI+Applications;Cybersecurity+%7C+Healthcare+%7C+Space+Technology" />
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Fy1zN&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/Fy1zN?logo=github&style=for-the-badge" />
-<img src="https://img.shields.io/github/stars/Fy1zN?logo=github&style=for-the-badge" />
-
----
-
 ## 🚀 About Me
 
-💻 Computer Science Student specializing in **Data Science**
+💻 **B.Tech Computer Science (Data Science)** @ Manipal University Jaipur (2023–2027)
 
-🤖 Passionate about **Artificial Intelligence, Machine Learning, Deep Learning & LLMs**
+🏢 **Full Stack Engineering Intern @ COFFEEE.IO**
+- Building a production-scale Applicant Tracking System (ATS) for end-to-end recruitment operations.
+- Developing recruiter workflow automation, candidate management, demand tracking, reporting dashboards, and REST API integrations.
+- Working with **React.js, TypeScript, Node.js, Express.js, PostgreSQL, AWS, Git**, and Agile development practices.
 
-⚡ Building production-ready **Full Stack AI Applications**
+🤖 **AI • Machine Learning • Computer Vision • Cybersecurity Enthusiast**
 
-🔬 Interested in **Computer Vision, Generative AI, RAG Systems, Multi-Agent AI & MLOps**
+I enjoy building intelligent systems that combine modern AI research with scalable backend engineering to solve real-world problems.
 
-🛰️ Currently Building **Artemis — Neural Deep Space Telemetry Restoration Platform**
+🚀 **Currently Building**
+- 🛰️ **Artemis** — Neural Deep-Space Telemetry Restoration Platform using Deep Learning, FastAPI, PostgreSQL, pgvector, Docker, Ollama & RAG.
+- 🛡️ **Sentinel-X** — Enterprise AI-powered Cyber Threat Intelligence & SOC Platform.
+- ⚽ **SoccerEye** — AI-powered Football Match Analytics using Computer Vision.
+- 🔬 **GRADIA.AI** — Explainable AI Dermoscopy Analysis Platform.
+- 🛒 **DeceptiScan** — AI-powered Fake Review Detection Browser Extension.
 
-📚 Learning **Advanced Deep Learning, Distributed Systems & AI Infrastructure**
+💡 **Areas of Interest**
+- Artificial Intelligence
+- Machine Learning & Deep Learning
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Computer Vision
+- Natural Language Processing (NLP)
+- MLOps & AI Infrastructure
+- Full Stack Development
+- Backend Engineering
+- Distributed Systems
+- Cybersecurity & Threat Intelligence
+- Data Science & Analytics
 
-🎯 Goal: Build AI systems that solve real-world engineering problems.
+🛠️ **Core Technologies**
+- **Languages:** Python, C++, JavaScript, TypeScript, SQL
+- **Frontend:** React, Next.js, Tailwind CSS, HTML, CSS
+- **Backend:** FastAPI, Flask, Node.js, Express.js
+- **Databases:** PostgreSQL, MongoDB, SQLite, Supabase, Snowflake
+- **AI/ML:** PyTorch, Scikit-learn, OpenCV, YOLOv8, Transformers, XGBoost
+- **DevOps:** Docker, Git, GitHub, Linux, AWS
+- **Tools:** VS Code, Jupyter Notebook, Postman, Power BI, Tableau
 
+📖 **Currently Learning**
+- Advanced Deep Learning Architectures
+- LLM Engineering & AI Agents
+- Multi-Agent Systems
+- Retrieval-Augmented Generation (RAG)
+- High-Performance Backend Systems
+- Distributed AI Infrastructure
+- Cloud-Native AI Deployments
+
+🎯 **Mission**
+
+To engineer scalable AI-powered products that bridge research and real-world applications across healthcare, cybersecurity, computer vision, enterprise software, and space technology.
 ---
 
 # 🛠 Tech Stack
