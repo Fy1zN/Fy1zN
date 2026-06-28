@@ -1,364 +1,129 @@
-## 🚀 About Me
+::: {align="center"}
+# Hi, I'm Krish Malhotra 👋
 
-💻 **B.Tech Computer Science (Data Science)** @ Manipal University Jaipur (2023–2027)
+### AI Engineer • Full Stack Developer • Machine Learning Engineer
 
-🏢 **Full Stack Engineering Intern @ COFFEEE.IO**
-- Building a production-scale Applicant Tracking System (ATS) for end-to-end recruitment operations.
-- Developing recruiter workflow automation, candidate management, demand tracking, reporting dashboards, and REST API integrations.
-- Working with **React.js, TypeScript, Node.js, Express.js, PostgreSQL, AWS, Git**, and Agile development practices.
+`<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Full+Stack+Developer;Machine+Learning+Engineer;Computer+Vision+%7C+LLMs+%7C+RAG;Building+Enterprise+AI+Systems;Open+Source+Developer" />`{=html}
 
-🤖 **AI • Machine Learning • Computer Vision • Cybersecurity Enthusiast**
-
-I enjoy building intelligent systems that combine modern AI research with scalable backend engineering to solve real-world problems.
-
-🚀 **Currently Building**
-- 🛰️ **Artemis** — Neural Deep-Space Telemetry Restoration Platform using Deep Learning, FastAPI, PostgreSQL, pgvector, Docker, Ollama & RAG.
-- 🛡️ **Sentinel-X** — Enterprise AI-powered Cyber Threat Intelligence & SOC Platform.
-- ⚽ **SoccerEye** — AI-powered Football Match Analytics using Computer Vision.
-- 🔬 **GRADIA.AI** — Explainable AI Dermoscopy Analysis Platform.
-- 🛒 **DeceptiScan** — AI-powered Fake Review Detection Browser Extension.
-
-💡 **Areas of Interest**
-- Artificial Intelligence
-- Machine Learning & Deep Learning
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Computer Vision
-- Natural Language Processing (NLP)
-- MLOps & AI Infrastructure
-- Full Stack Development
-- Backend Engineering
-- Distributed Systems
-- Cybersecurity & Threat Intelligence
-- Data Science & Analytics
-
-🛠️ **Core Technologies**
-- **Languages:** Python, C++, JavaScript, TypeScript, SQL
-- **Frontend:** React, Next.js, Tailwind CSS, HTML, CSS
-- **Backend:** FastAPI, Flask, Node.js, Express.js
-- **Databases:** PostgreSQL, MongoDB, SQLite, Supabase, Snowflake
-- **AI/ML:** PyTorch, Scikit-learn, OpenCV, YOLOv8, Transformers, XGBoost
-- **DevOps:** Docker, Git, GitHub, Linux, AWS
-- **Tools:** VS Code, Jupyter Notebook, Postman, Power BI, Tableau
-
-📖 **Currently Learning**
-- Advanced Deep Learning Architectures
-- LLM Engineering & AI Agents
-- Multi-Agent Systems
-- Retrieval-Augmented Generation (RAG)
-- High-Performance Backend Systems
-- Distributed AI Infrastructure
-- Cloud-Native AI Deployments
-
-🎯 **Mission**
-
-To engineer scalable AI-powered products that bridge research and real-world applications across healthcare, cybersecurity, computer vision, enterprise software, and space technology.
----
-
-# 🛠 Tech Stack
-
-### Languages
-
+```{=html}
 <p>
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,html,css"/>
-
+```
+`<img src="https://komarev.com/ghpvc/?username=Fy1zN&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>`{=html}
+`<img src="https://img.shields.io/github/followers/Fy1zN?style=for-the-badge"/>`{=html}
+`<img src="https://img.shields.io/github/stars/Fy1zN?style=for-the-badge"/>`{=html}
+```{=html}
 </p>
+```
+:::
 
-### Frontend
+------------------------------------------------------------------------
 
-<p>
+# 🚀 About Me
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite"/>
+🎓 **B.Tech Computer Science (Data Science)** --- Manipal University
+Jaipur
 
+💼 **Full Stack Engineering Intern @ COFFEEE.IO**
+
+🛰 Building **Artemis** --- Deep Space Telemetry Restoration using Deep
+Learning + RAG + Ollama
+
+🛡 Building **Sentinel-X** --- Enterprise Cyber Threat Intelligence
+Platform
+
+🔬 AI Research in Computer Vision, LLMs, RAG, Deep Learning and Backend
+Systems
+
+------------------------------------------------------------------------
+
+# 💻 Tech Stack
+
+```{=html}
+<p align="center">
+```
+`<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,html,css,react,nextjs,nodejs,express,fastapi,django,flask,postgres,mongodb,docker,git,github,linux,aws,vscode,opencv,pytorch,tensorflow"/>`{=html}
+```{=html}
 </p>
-
-### Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,fastapi,django,flask"/>
-
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://img.shields.io/badge/Ollama-black?style=for-the-badge"/>`{=html}
+`<img src="https://img.shields.io/badge/LangChain-0FA958?style=for-the-badge"/>`{=html}
+`<img src="https://img.shields.io/badge/RAG-blue?style=for-the-badge"/>`{=html}
+`<img src="https://img.shields.io/badge/YOLOv8-red?style=for-the-badge"/>`{=html}
+`<img src="https://img.shields.io/badge/XGBoost-orange?style=for-the-badge"/>`{=html}
+`<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge"/>`{=html}
+```{=html}
 </p>
+```
 
-### Databases
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite"/>
-
-</p>
-
-### AI / Machine Learning
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
-
-</p>
-
-<p>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/YOLOv8-FF1493?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Transformers-FFD43B?style=for-the-badge"/>
-
-</p>
-
-### DevOps & Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,postman,figma"/>
-
-</p>
-
----
+------------------------------------------------------------------------
 
 # ⭐ Featured Projects
 
-<table>
-
-<tr>
-
-<td width="50%">
-
-<h3 align="center">🛡 Sentinel-X</h3>
-
-Enterprise-grade AI powered Cyber Threat Intelligence & SOC Platform.
-
-✔ IOC Enrichment
-
-✔ Threat Correlation
-
-✔ MITRE ATT&CK Mapping
-
-✔ MalwareBazaar
-
-✔ URLHaus
-
-✔ VirusTotal
-
-✔ Live Threat Dashboard
-
-✔ WebSocket Telemetry
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=fastapi,postgres,react,docker"/>
-
-<br><br>
-
-<a href="https://github.com/Fy1zN/Sentinel-X">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-<td width="50%">
-
-<h3 align="center">🛰 Artemis</h3>
-
-AI-powered Neural Deep Space Telemetry Restoration Platform.
-
-✔ Deep Learning
-
-✔ Bit Flip Recovery
-
-✔ NASA DSN Telemetry
-
-✔ Ollama RAG
-
-✔ pgvector
-
-✔ FastAPI
-
-✔ Docker
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker"/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-<h3 align="center">⚽ SoccerEye</h3>
-
-Computer Vision Football Analytics Platform.
-
-✔ YOLOv8
-
-✔ Object Tracking
-
-✔ Ball Tracking
-
-✔ Team Assignment
-
-✔ Tactical Analytics
-
-✔ Speed & Distance Estimation
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=python,opencv"/>
-
-<br><br>
-
-<a href="https://github.com/Fy1zN/SoccerEye">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-<td width="50%">
-
-<h3 align="center">🛒 DeceptiScan</h3>
-
-AI-powered Fake Review Detection Browser Extension.
-
-✔ NLP
-
-✔ Review Classification
-
-✔ Browser Extension
-
-✔ Real-time Analysis
-
-✔ Machine Learning
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=react,ts"/>
-
-<br><br>
-
-<a href="https://github.com/Fy1zN/DeceptiScan">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-<h3 align="center">🔬 GRADIA.AI</h3>
-
-AI-assisted Dermoscopy Analysis Platform.
-
-✔ ResNet-50
-
-✔ Medical Imaging
-
-✔ Grad-CAM
-
-✔ Explainable AI
-
-✔ Clinical Draft Generation
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=python,react"/>
-
-<br><br>
-
-<a href="https://github.com/Fy1zN/Gradia.AI">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-<td width="50%">
-
-<h3 align="center">💰 TransferIQ</h3>
-
-Machine Learning Player Market Value Prediction Platform.
-
-✔ Regression Models
-
-✔ Feature Engineering
-
-✔ Data Analytics
-
-✔ Football Intelligence
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<br><br>
-
-<a href="https://github.com/Fy1zN/TransferIQ">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 📊 GitHub Analytics
-
+  Project              Description
+  -------------------- --------------------------------------------------
+  🛰 **Artemis**        Neural Deep Space Telemetry Restoration Platform
+  🛡 **Sentinel-X**     AI Powered SOC & Cyber Threat Intelligence
+  🔬 **GRADIA.AI**     Explainable AI Dermoscopy Platform
+  ⚽ **SoccerEye**     Football Analytics using Computer Vision
+  🛒 **DeceptiScan**   Fake Review Detection Browser Extension
+  💰 **TransferIQ**    Football Market Value Prediction
+
+------------------------------------------------------------------------
+
+# 📈 GitHub Stats
+
+```{=html}
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Fy1zN&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Fy1zN&theme=tokyonight&hide_border=true"/>
-
+```
+`<img height="170" src="https://github-readme-stats.vercel.app/api?username=Fy1zN&show_icons=true&theme=tokyonight&hide_border=true"/>`{=html}
+`<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Fy1zN&theme=tokyonight&hide_border=true"/>`{=html}
+```{=html}
 </p>
-
+```
+```{=html}
 <p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fy1zN&layout=compact&theme=tokyonight&hide_border=true"/>
-
+```
+`<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fy1zN&layout=compact&theme=tokyonight&hide_border=true"/>`{=html}
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
-# 🌐 Connect With Me
+# 🏆 GitHub Trophies
 
+```{=html}
 <p align="center">
-
-<a href="https://linkedin.com/in/krish-malhotra-903092317">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="mailto:malhotrakrish2106@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/Fy1zN">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
+```
+`<img src="https://github-profile-trophy.vercel.app/?username=Fy1zN&theme=tokyonight&no-frame=true&row=1&column=6"/>`{=html}
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+# 🐍 Contribution Snake
 
-</div>
+``` yaml
+Enable GitHub Action:
+Platane/snk
+Output:
+output/github-contribution-grid-snake-dark.svg
+```
+
+------------------------------------------------------------------------
+
+# 📫 Connect
+
+```{=html}
+<p align="center">
+```
+`<a href="https://github.com/Fy1zN">`{=html}`<img src="https://skillicons.dev/icons?i=github"/>`{=html}`</a>`{=html}
+`<a href="https://www.linkedin.com/in/krish-malhotra-903092317">`{=html}`<img src="https://skillicons.dev/icons?i=linkedin"/>`{=html}`</a>`{=html}
+`<a href="mailto:malhotrakrish2106@gmail.com">`{=html}`<img src="https://skillicons.dev/icons?i=gmail"/>`{=html}`</a>`{=html}
+```{=html}
+</p>
+```
